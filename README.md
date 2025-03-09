@@ -1,3 +1,5 @@
 # generator
-std::generator implementation from P2502R2
-[link](https://godbolt.org/z/5hcaPcfvP)
+* from P2502R2  
+[Implementation] Casey Carter, Lewis Baker, Corentin Jabot. std::generator implementation  
+[link](https://godbolt.org/z/5hcaPcfvP)  
+
